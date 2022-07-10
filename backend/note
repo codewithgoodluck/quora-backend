@@ -1,0 +1,19 @@
+1. NPM INIT
+2. SERVER: npm i express 
+3. Create a server.js file
+4.Node is required to start development server : npm i nodemon
+5. install mongosee to connect to the database npm i mongoose
+
+SECURITY
+...................
+1. DOT ENV help us to save sensitive code 
+2. npm i dotenv
+
+DATA MODELING
+.............
+1. Create an object from a schema
+2. Install bcrypt.js to encript password 
+3. Install npm i express-async-handler to handle errors
+4. Servers  are stateless and that is why it cannot remmeber who must have logged in and we need JWT token npm i 
+jsonwebtoken
+                                                           
